@@ -1,0 +1,5 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+	
+	.degradado{
+		-fx-background-color: linear-gradient(#000000, #E6E6E6) ;
+	}
